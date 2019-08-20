@@ -1,0 +1,64 @@
+attacker,victim,kills,risk
+impact hammer,impact hammer,1,0
+minigun,enforcer,5,0
+minigun,shock rifle,15,0
+minigun,flak cannon,7,0
+minigun,minigun,3,0
+minigun,pulse gun,2,0
+minigun,ripper,1,0
+minigun,double enforcer,3,0
+minigun,rocket launcher,1,0
+flak cannon,enforcer,8,0
+flak cannon,sniper rifle,1,0
+flak cannon,flak cannon,16,0
+flak cannon,shock rifle,13,0
+flak cannon,rocket launcher,5,0
+flak cannon,pulse gun,4,0
+flak cannon,impact hammer,1,0
+flak cannon,double enforcer,1,0
+flak cannon,minigun,1,0
+shock rifle,sniper rifle,1,0
+shock rifle,flak cannon,6,0
+shock rifle,shock rifle,30,0
+shock rifle,double enforcer,1,0
+shock rifle,minigun,3,0
+shock rifle,rocket launcher,3,0
+shock rifle,enforcer,11,0
+shock rifle,pulse gun,1,0
+enforcer,enforcer,12,0
+enforcer,flak cannon,1,0
+enforcer,minigun,3,0
+enforcer,pulse gun,2,0
+enforcer,ripper,1,0
+enforcer,shock rifle,4,0
+enforcer,sniper rifle,1,0
+enforcer,rocket launcher,1,0
+enforcer,double enforcer,1,0
+enforcer,ges bio rifle,1,0
+ripper,enforcer,1,0
+ripper,shock rifle,1,0
+ripper,double enforcer,1,0
+rocket launcher,pulse gun,1,0
+rocket launcher,flak cannon,5,0
+rocket launcher,shock rifle,5,0
+rocket launcher,sniper rifle,1,0
+rocket launcher,minigun,2,0
+rocket launcher,enforcer,4,0
+rocket launcher,rocket launcher,3,0
+double enforcer,enforcer,4,0
+double enforcer,double enforcer,1,0
+double enforcer,rocket launcher,1,0
+double enforcer,shock rifle,2,0
+none,shock rifle,4,0
+none,flak cannon,1,0
+pulse gun,ripper,1,0
+pulse gun,shock rifle,3,0
+pulse gun,enforcer,1,0
+pulse gun,rocket launcher,2,0
+pulse gun,flak cannon,1,0
+sniper rifle,shock rifle,2,0
+sniper rifle,double enforcer,2,0
+ges bio rifle,flak cannon,1,0
+ges bio rifle,shock rifle,1,0
+ges bio rifle,minigun,1,0
+ges bio rifle,double enforcer,1,0
